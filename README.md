@@ -217,9 +217,9 @@ php artisan test
 
 ## Companion Project
 
-Flutter Android client repository:
+Flutter Frontend:
 
-> Coming soon.
+https://github.com/thomasandrianto/satu-ayat-sehari-frontend
 
 Google Play:
 
